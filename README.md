@@ -20,16 +20,16 @@ Built with modern technologies like **React, Node.js, Express, and MongoDB**.
 ## 🖼️ Screenshots
 
 ### 📊 Dashboard
- <img src="dashboard.png" alt="Redmi Phone" width="300" height="auto">
+ <img src="dashboard.png" alt="Redmi Phone" width="400" height="auto">
 
 ### 💰 Income Page
- <img src="income.png" alt="Redmi Phone" width="300" height="auto">
+ <img src="income.png" alt="Redmi Phone" width="400" height="auto">
 
 ### 💸 Expense Page
- <img src="expense.png" alt="Redmi Phone" width="300" height="auto">
+ <img src="expense.png" alt="Redmi Phone" width="400" height="auto">
 
 ### 👤 Profile Page
- <img src="profile.png" alt="Redmi Phone" width="300" height="auto">
+ <img src="profile.png" alt="Redmi Phone" width="400" height="auto">
 
 ---
 
@@ -65,7 +65,7 @@ Expense-Tracker/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Suman-20/Expense-Tracker.git
 cd expense-tracker
 
 2️⃣ Setup Backend
